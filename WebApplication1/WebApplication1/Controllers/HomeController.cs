@@ -5,6 +5,7 @@ using WebApplication1.Models;
 namespace WebApplication1.Controllers
 {
     //This is Home Controller
+    //This is for practice
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
